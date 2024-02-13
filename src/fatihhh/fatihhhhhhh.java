@@ -5,6 +5,7 @@ public class fatihhhhhhh {
 
         System.out.println("vay siz hoşgelmişşsiniz");
         for (int i = 0; i < 10; i++) {
+            System.out.println(i);
 
         }
 
